@@ -1,4 +1,4 @@
-# Simulador de Voo — Aterragem (Exercício 2)
+# Simulador de Voo (Aterragem)
 
 Trabalho 2 de Computação Gráfica. O objetivo do exercício 2 é simular a aterragem de um avião numa pista. Escolhemos uma avioneta parecida com um Cessna 172, a aterrar na pista 27. Está tudo feito em C++ com OpenGL 3.3 (perfil *core*), GLFW, GLEW e GLM.
 

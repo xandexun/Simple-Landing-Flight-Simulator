@@ -1,0 +1,9 @@
+# Cessna-like airplane (texture converted DDS -> PPM)
+newmtl airplane
+Ns 48.0
+Ka 0.85 0.85 0.85
+Kd 0.85 0.85 0.85
+Ks 0.45 0.45 0.45
+d 1.0
+illum 2
+map_Kd diffuse.ppm
